@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdemirbelul&label=Profile%20views&color=0e75b6&style=flat" alt="bdemirbelul" /> </p>
 
-- 🔭 I’m currently working on **Parking Management System**
+- 🔭 I’m currently working on **multi dimensional conventional AI**
 
 - 🌱 I’m currently learning **AI, problem solving and algorithms**
 
