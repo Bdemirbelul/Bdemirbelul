@@ -44,7 +44,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/56048051-512e-4965-b526-9ef3404248d1" />
+" />
 
 ###
 
