@@ -1,11 +1,13 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋 Welcome</h1>
-
+<!-- TOP WAVE HEADER -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
 
+<h1 align="center">Hey 👋 Welcome</h1>
+
+<!-- VISITOR COUNTER -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bdemirbelul" />
 </div>
@@ -16,6 +18,7 @@ I enjoy building practical and scalable AI solutions, especially at the intersec
 Most of my projects are driven by curiosity and experimentation, aiming to turn academic ideas into real-world, working systems.
 </p>
 
+<!-- SOCIAL LINKS -->
 <div align="left">
   <a href="https://www.linkedin.com/in/demirkan-belul-28571523a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -25,14 +28,17 @@ Most of my projects are driven by curiosity and experimentation, aiming to turn 
   </a>
 </div>
 
+<!-- CONTRIBUTION GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- IMAGE -->
 <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/56048051-512e-4965-b526-9ef3404248d1" />
 
+<!-- BOTTOM WAVE FOOTER -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
