@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=45&"  />
 </div>
 
 ###
@@ -44,9 +44,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
 
