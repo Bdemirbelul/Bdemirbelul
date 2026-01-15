@@ -13,9 +13,13 @@
 </div>
 
 <p align="left">
-Hi, I’m Demirkan. I’m a recently graduated Computer Engineering student from Riga Technical University, with a strong focus on multimodal conversational AI, machine learning, and data-driven systems.<br><br>
-I enjoy building practical and scalable AI solutions, especially at the intersection of backend development, intelligent assistants, and applied machine learning.<br><br>
-Most of my projects are driven by curiosity and experimentation, aiming to turn academic ideas into real-world, working systems.
+👋 Hi, I’m <b>Demirkan</b>, a recently graduated <b>Computer Engineering</b> student from <b>Riga Technical University</b>.<br><br>
+
+🤖 My main focus is on <b>multimodal conversational AI</b>, <b>machine learning</b>, and <b>data-driven systems</b>, where I enjoy combining academic ideas with practical engineering.<br><br>
+
+⚙️ I like building <b>scalable backend systems</b>, intelligent assistants, and applied ML pipelines that solve real-world problems rather than staying purely theoretical.<br><br>
+
+🚀 Most of my projects are driven by <b>curiosity, experimentation</b>, and the goal of turning complex concepts into <b>working, explainable solutions</b>.
 </p>
 
 <!-- SOCIAL LINKS (TOP) -->
@@ -38,9 +42,6 @@ Most of my projects are driven by curiosity and experimentation, aiming to turn 
     src="https://raw.githubusercontent.com/bdemirbelul/bdemirbelul/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- FEATURE IMAGE -->
-<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/56048051-512e-4965-b526-9ef3404248d1" />
-
 <!-- BOTTOM SOCIAL LINKS (LEFT / RIGHT) -->
 <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/demirkan-belul-28571523a/" target="_blank">
@@ -52,9 +53,4 @@ Most of my projects are driven by curiosity and experimentation, aiming to turn 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
          width="48" height="38" alt="website logo" />
   </a>
-</div>
-
-<!-- BOTTOM WAVE FOOTER -->
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
