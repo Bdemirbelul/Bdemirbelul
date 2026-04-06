@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-🚀 Most of my projects are driven by <b>curiosity and experimentation</b>. I like starting from an academic or theoretical idea and gradually shaping it into a <b>working, testable, and reproducible system</b>, paying close attention to data quality, evaluation methodology, and real-world constraints.
+🚀 Most of my projects are driven by <b>curiosity and experimentation</b>. I like starting from an academic or theoretical idea and gradually shaping it into a <b>working, testable, and reproducible system</b>, paying close attention to data quality, evaluation methodology, and real-world constraints and dont forget to visit my website https://www.demirkanbelul.com/
 </p>
 
 <!-- VISITOR COUNTER -->
